@@ -9,8 +9,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
 
 ### Screenshot
 
@@ -20,7 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](index.html)
+- Solution URL: [Add solution URL here](https://github.com/UMo0HU/qr-code-component-main/)
+- Live Site URL: [Add live site URL here](https://umo0hu.github.io/qr-code-component-main/)
 
 ### Built with
 
@@ -29,6 +37,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 
+
+### Useful resources
+
+- [W3schools.com](https://www.w3schools.com/cssref/) - This helped me with the box-shadow property
 ## Author
 
 - Frontend Mentor - [@UMo0HU](https://www.frontendmentor.io/profile/UMo0HU)
